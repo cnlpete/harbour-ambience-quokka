@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "harbour-ambience-quokka",
+    "displayName"               : "Quokka",
+    "ringerToneFile"            : { "file": "", "enabled": 1 },
+    "messageToneFile"           : { "file": "", "enabled": 1 },
+    "mailToneFile"              : { "file": "", "enabled": 1 },
+    "internetCallToneFile"      : { "file": "", "enabled": 1 },
+    "chatToneFile"              : { "file": "", "enabled": 1 },
+    "calendarToneFile"          : { "file": "", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "", "enabled": 1 },
+    "wallpaper"                 : "harbour-ambience-quokka.jpg",
+    "highlightColor"            : "#FEBF80",
+    "secondaryHighlightColor"   : "#CC9965",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 70,
+    "favorite"                  : true
+}

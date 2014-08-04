@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "harbour-ambience-quokka",
+    "files" : [
+        { "displayName" : "quokka ringtone"          , "fileName" : "harbour-quokka-ringtone.wav" },
+        { "displayName" : "quokka messagetone"       , "fileName" : "harbour-quokka-message.wav" },
+        { "displayName" : "quokka imtone"            , "fileName" : "harbour-quokka-im.wav" },
+        { "displayName" : "quokka emailtone"         , "fileName" : "harbour-quokka-email.wav" },
+        { "displayName" : "quokka calendar-alarm"    , "fileName" : "harbour-quokka-calendar.wav" },
+        { "displayName" : "quokka clock-alarm"       , "fileName" : "harbour-quokka-clock.wav" }
+    ]
+}
