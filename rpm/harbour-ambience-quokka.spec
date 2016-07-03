@@ -1,8 +1,8 @@
 Name:       harbour-ambience-quokka
 
 Summary:    My Quokka Ambiance
-Version:    0.1.0
-Release:    0.1
+Version:    0.2.0
+Release:    0.2
 Group:      System/GUI/Other
 License:    TBD
 Source0:    %{name}-%{version}.tar.bz2

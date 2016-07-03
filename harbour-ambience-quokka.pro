@@ -3,12 +3,13 @@ NAME = harbour-ambience-quokka
 OTHER_FILES = \
         $${NAME}.ambience \
         sounds.index \
-        images/* \
-        sounds/* \
-        translations/* \
+        $$files(images/*) \
+        $$files(sounds/*) \
+        $$files(translations/*) \
         rpm/* \
         README.Jolla \
-        README.md
+        README.md \
+        $$files(images_src/*)
 
 ambience.files = \
         $${NAME}.ambience \
